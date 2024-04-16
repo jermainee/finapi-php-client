@@ -1,4 +1,4 @@
-# OpenAPIClient-php
+# finAPI php client
 
 <strong>RESTful API for Account Information Services (AIS) and Payment Initiation Services (PIS)</strong>
 <br/>
